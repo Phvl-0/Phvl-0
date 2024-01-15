@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Phvl-0
+- 👋 Hi, I’m Philip...
 - 👀 I’m interested in cybersecurity and programming
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on projects and work with other great programmers too
-- 📫 How to reach me - at whoisphvl on all socials
+- 📫 How to reach me - @whoisphvl on all socials
 - 😄 Pronouns: he|him|his
 - ⚡ Fun fact: Did you know the first computer bug was an actual bug!
